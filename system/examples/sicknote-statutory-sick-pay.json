@@ -1,0 +1,8 @@
+{"brand":"sicknote","slides":[
+{"type":"cover","kicker":"Ireland · statutory sick pay","title":"Five paid sick days a year, and a doctor's cert from day one","sub":"What the law gives every employee, in four numbers."},
+{"type":"stat","kicker":"The entitlement","big":"5","unit":"days","title":"paid sick leave per year","body":"That is the legal minimum. Your contract can give you more. It can't give you less."},
+{"type":"stat","kicker":"The rate","big":"70%","title":"of your normal pay, capped at €110 a day","card":"Earn €200 a day? 70% would be €140, so the cap applies and you get **€110**."},
+{"type":"stat","kicker":"Who qualifies","big":"13","unit":"weeks","title":"of continuous work with your employer","body":"Before that, statutory sick pay doesn't apply yet. Check your contract for anything extra."},
+{"type":"stat","kicker":"The paperwork","big":"Day 1","title":"a doctor should certify you from your first sick day","body":"No cert, no statutory sick pay. Sort it out on day one, not day three."},
+{"type":"close","kicker":"Your turn","title":"Did you know about the €110 daily cap before today?","body":"Yes or no in the comments. We read every one.","source":"Source: Citizens Information, \"Sick leave and sick pay\" (citizensinformation.ie). General information, not legal advice."}
+]}

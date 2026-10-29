@@ -1,0 +1,6 @@
+{"brand":"personal","slides":[
+{"type":"cover","kicker":"Medical AI · reliability","title":"Your chatbot passed the exam. Would you let it triage your mother?","sub":"Exam scores and bedside safety measure different things."},
+{"type":"stat","kicker":"The gap","big":"92%","unit":"exam","title":"is not a safety number","body":"Placeholder figure for the template test. The weekly run puts a sourced number here."},
+{"type":"list","kicker":"What I check first","title":"Three questions before trusting a health answer","items":["Does it say what it **doesn't** know?","Does it tell you when to see someone today?","Can you trace the claim to a named source?"]},
+{"type":"close","kicker":"Your turn","title":"Would you trust an AI triage tool for your own family?","body":"Yes or no. I read every reply.","source":"Template test slide. No real data on this page."}
+]}
