@@ -1,0 +1,68 @@
+{
+  "status": "done",
+  "run_at": "2026-11-01T18:55:05+00:00",
+  "posts": [
+    {
+      "brand": "personal",
+      "publish_at": "2026-11-03T08:30:00+01:00",
+      "topic": "AMIE patient-facing AI in primary care (Lancet feasibility study)",
+      "sources": [
+        "https://doi.org/10.1016/S0140-6736(26)01535-7",
+        "https://bidmc.org/news-stories/all-news-stories/news/2026/10/bidmc-research-shows-safety-quality-of-ai-in-primary-care"
+      ],
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7721132&openWithPostUuid=-1173243456904215561",
+      "media_file": "2026-11-03-personal-ai-history-taking-lancet.pdf"
+    },
+    {
+      "brand": "personal",
+      "publish_at": "2026-11-04T08:30:00+01:00",
+      "topic": "LLMs following unsafe clinical instructions; safety reminder effect (Communications Medicine)",
+      "sources": [
+        "https://doi.org/10.1038/s43856-026-01933-8",
+        "https://www.mountsinai.org/about/newsroom/2026/mount-sinai-study-finds-safety-prompts-can-help-ai-models-make-safer-clinical-choices"
+      ],
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7721132&openWithPostUuid=-4605636854485923711",
+      "media_file": "2026-11-04-personal-ai-unsafe-instructions.pdf"
+    },
+    {
+      "brand": "sicknote",
+      "publish_at": "2026-11-03T09:00:00+00:00",
+      "topic": "UK SSP from day one since 6 April 2026",
+      "sources": [
+        "https://www.gov.uk/statutory-sick-pay",
+        "https://www.gov.uk/statutory-sick-pay/what-youll-get",
+        "https://www.gov.uk/employers-sick-pay/entitlement",
+        "https://www.acas.org.uk/statutory-sick-pay-changes-2026"
+      ],
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7622007&openWithPostUuid=-1204265812215905629",
+      "media_file": "2026-11-03-sicknote-uk-ssp-day-one.pdf"
+    },
+    {
+      "brand": "sicknote",
+      "publish_at": "2026-11-04T09:00:00+00:00",
+      "topic": "Who can sign a UK fit note; 7-day rule",
+      "sources": [
+        "https://www.gov.uk/taking-sick-leave",
+        "https://www.gov.uk/government/publications/who-can-issue-fit-notes-guidance-for-healthcare-professionals-and-their-employers/who-can-issue-fit-notes-guidance-for-healthcare-professionals-and-their-employers",
+        "https://www.gov.uk/government/publications/evaluation-of-the-2022-fit-note-reforms/evaluation-of-the-2022-fit-note-reforms"
+      ],
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7622007&openWithPostUuid=-1937456418108059836",
+      "media_file": "2026-11-04-sicknote-uk-fit-note-who-can-sign.pdf"
+    },
+    {
+      "brand": "sicknote",
+      "publish_at": "2026-11-05T09:00:00+00:00",
+      "topic": "Ireland Pregnancy Loss Leave Bill (proposed)",
+      "sources": [
+        "https://enterprise.gov.ie/en/news-and-events/department-news/2026/october/20261015.html",
+        "https://enterprise.gov.ie/en/news-and-events/department-news/2026/july/minister-burke-moves-to-introduce-statutory-leave-for-pregnancy-loss.html",
+        "https://www.ucc.ie/en/pregnancyloss/newsandmedia/report-recommends-statutory-right-to-paid-leave-for-pregnancy-loss-under-24-weeks.html"
+      ],
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7622007&openWithPostUuid=-2562618879833453421",
+      "media_file": "2026-11-05-sicknote-ireland-pregnancy-loss-leave.pdf",
+      "reshare": true
+    }
+  ],
+  "missing": [],
+  "notes": "No Sicknote Radar figure used: digest covers 24 hours only, runbook needs at least a full week. No sicknote.com link: site search returned only Ireland pages, none matched the UK posts, and a link was left off the pregnancy loss post. nature.com could not be fetched; p2 figures checked against the Mount Sinai release. One review round; fixes applied. Scanner: slide accent markup (**) and DOI hyphens are renderer/identifier false positives. Rule zero for page posts met by cited government survey/estimates and the PLACES report."
+}
